@@ -1,3 +1,5 @@
+UNDER CONSTRUCTION
+
 These footprints are for Hongfa relays of type HFD3 in SMD and THT shape. They come with 10 pins or 8 pins to be soldered directly or through holes of the PCB.
 
 These footprints can be added to an existing global footprint library under
