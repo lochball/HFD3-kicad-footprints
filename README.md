@@ -9,3 +9,5 @@ or if necessary in a separate library like
 /usr/share/kicad/footprints/myRelay_SMD.pretty
 
 The rights of each library shall be set accordingly.
+
+-> This file will be altered in case the entire content has been delivered.
