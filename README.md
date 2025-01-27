@@ -1,4 +1,4 @@
-These footprints are for Haofang HFD3 relay in SMD shape. They come with 10 pins or 8 pins to be soldered directly on the PCB.
+These footprints are for Haofang HFD3 relay in SMD and THT shape. They come with 10 pins or 8 pins to be soldered directly or through holes of the PCB.
 
 These footprints can be added to an existing global footprint library under
 
